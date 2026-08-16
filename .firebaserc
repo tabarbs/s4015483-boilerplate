@@ -1,6 +1,6 @@
 {
   "projects": {
-    "default": "REPLACE_WITH_FIREBASE_PROJECT_ID"
+    "default": "s4015483-task1-run"
   },
   "targets": {},
   "etags": {}
